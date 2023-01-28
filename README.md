@@ -1,7 +1,7 @@
 # Recent-Anime-Chrome-Extension
 
   A Chrome Extension made with React JS and GogoAnime RapidAPI. 
-  You can check recently released anime episodes quickly and watch it directly in [GogoAnime](https://gogoanime.tel/)
+  You can check recently released anime episodes quickly and watch it directly in [GogoAnime](https://gogoanime.tel/).
   You can see 20 latest episodes of different animes with beautiful elegant slider gallery view :3
 
 ## How to use it?
